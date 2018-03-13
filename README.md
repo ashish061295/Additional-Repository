@@ -1,4 +1,4 @@
 # Additional-Repository
 Repository for practise 
-parcticing different functionalities related to git .
-functionalities like how to create directory,branches and how to do pull request.
+1)parcticing different functionalities related to git .
+2)functionalities like how to create directory,branches and how to do pull request.
